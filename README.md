@@ -72,7 +72,7 @@ Using **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)**, the analysi
 - **Logistic regression** confirmed that delay-related and distance features consistently predict diversion probability.
 
 - ## Dataset
-- The dataset used in this project is publicly available: [Harvard Airlines Dataset]([https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7))
+- The dataset used in this project is publicly available: [Harvard Airlines Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1)
 
 
 This project demonstrates how **systematic EDA and visualization can turn raw aviation data into actionable insights** for both passengers and airlines.
