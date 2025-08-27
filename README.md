@@ -69,6 +69,10 @@ Using **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)**, the analysi
 ## Conclusion
 - **Best time to travel**: early morning, mid-week flights (especially Sundays).  
 - **Plane age**: older planes tend to have fewer delays, though the effect is decreasing due to modern technology.  
-- **Logistic regression** confirmed that delay-related and distance features consistently predict diversion probability.  
+- **Logistic regression** confirmed that delay-related and distance features consistently predict diversion probability.
+
+- ## Dataset
+- The dataset used in this project is publicly available: [Harvard Airlines Dataset]([https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7))
+
 
 This project demonstrates how **systematic EDA and visualization can turn raw aviation data into actionable insights** for both passengers and airlines.
